@@ -1,1 +1,1 @@
-# Serverchip Landing page and documentation
+# Serverchip Landing page
